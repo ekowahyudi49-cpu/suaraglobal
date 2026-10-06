@@ -1,0 +1,6 @@
+{
+  "name": "SuaraGlobal - Teks ke Suara & Terjemahan Dunia",
+  "description": "Aplikasi konversi teks ke suara multibahasa dengan kontrol tempo, suasana, aksen, karakter suara anak & boneka, serta unduh WAV & MP3.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
